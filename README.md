@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on developing new skills
 - 📚 I’m currently learning Deep Learning
 - 👯  I’m looking to collaborate on Data analysis and Data engineering
-- 🥅 2024 Goals - Master Data Structures and Algotithms - Deep Learning - Full Stack development- maybe get to know some cool and easy tricks to improve my skills!
 - 📫 How to reach me: mhanjhusriee.b2021@vitstudent.ac.in
 
 
