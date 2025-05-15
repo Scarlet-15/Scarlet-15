@@ -15,8 +15,6 @@
 
 <hr>
 
-📌 Always looking for meaningful collaborations in real-time data systems, intelligent transportation, and socially impactful tech.
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scarlet-15&label=Profile%20views&color=0e75b6&style=flat" alt="Scarlet-15" /> </p>
