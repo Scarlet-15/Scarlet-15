@@ -1,14 +1,22 @@
+<h1 align="center">Hi 👋, I'm Mhanjhusriee</h1>
+<h3 align="center">A passionate Computer Science student specializing in AI & ML at VIT Chennai</h3>
 
-<h1 align="center">Hey 👋, This is Mhanjhusriee 😄</h1>
-<h3 align="center">An Undergrad Student at VITC</h3>
+- 🔭 I’m currently working on frontend app development using **Flutter**
+- 📚 Actively learning about **Deep Learning** and **Explainable AI**
+- 👯 I’m looking to collaborate on projects related to **Data Science**, **Computer Vision**, and **ML/DL Model development**
+- ⚡ Recent Projects:
+  - 🧠 Alzheimer’s Disease Progression Prediction using SHAP and ML models
+  - 🚦 Intelligent Traffic Signal Scheduler using YOLOv8 and aerial imagery
+  - 🗑️ Smart Waste Management System using IoT and real-time data
+  - 🎨 Tamil Text-to-Image Generator using GANs and text embeddings
+- 💬 Ask me about: **ML model deployment**, **data preprocessing**, **YOLO**, **SHAP**, **Arduino + IoT**
+- 📫 Reach me at: [mhanjhu15@gmail.com](mailto:mhanjhu15@gmail.com)
+- 🌐 Portfolio: [LinkedIn](https://linkedin.com/in/mhanjhusriee-baskar-a3a0a824b) | [GitHub](https://github.com/Scarlet-15)
 
-- 🔭 I’m currently working on developing new skills
-- 📚 I’m currently learning Deep Learning
-- 👯  I’m looking to collaborate on Data analysis and Data engineering
-- 📫 How to reach me: mhanjhusriee.b2021@vitstudent.ac.in
+<hr>
 
+📌 Always looking for meaningful collaborations in real-time data systems, intelligent transportation, and socially impactful tech.
 
-<br />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Scarlet-15&label=Profile%20views&color=0e75b6&style=flat" alt="Scarlet-15" /> </p>
