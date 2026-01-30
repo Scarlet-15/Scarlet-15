@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mhanjhusriee</h1>
-<h3 align="center">A passionate Computer Science student specializing in AI & ML at VIT Chennai</h3>
 
-- 🔭 I’m currently working on frontend app development using **Flutter**
+
+- 🔭 I’m currently working on building **End-to-End Systems**
 - 📚 Actively learning about **Deep Learning** and **Explainable AI**
 - 👯 I’m looking to collaborate on projects related to **Data Science**, **Computer Vision**, and **ML/DL Model development**
 - ⚡ Recent Projects:
